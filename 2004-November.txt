@@ -1,0 +1,87 @@
+From madmas at gmx.de  Tue Nov  9 08:57:42 2004
+From: madmas at gmx.de (Markus Schlichting)
+Date: Tue, 9 Nov 2004 08:57:42 +0100 (MET)
+Subject: [Lehstuver-devel] Datenmodell entwurf
+Message-ID: <21821.1099987062@www71.gmx.net>
+
+
+
+
+
+Hallo Leute, unser Datenmodell als vsd und png :)
+
+-- 
+Geschenkt: 3 Monate GMX ProMail + 3 Top-Spielfilme auf DVD
+++ Jetzt kostenlos testen http://www.gmx.net/de/go/mail ++
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Datenmodell_LehStuVer.png
+Type: image/png
+Size: 29589 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/lehstuver-devel/attachments/20041109/f49e3f5e/attachment.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Datenmodell_LehStuVer.VSD
+Type: application/octet-stream
+Size: 122880 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/lehstuver-devel/attachments/20041109/f49e3f5e/attachment.obj>
+
+From schlichting.markus at gmx.de  Wed Nov 17 22:10:53 2004
+From: schlichting.markus at gmx.de (Markus)
+Date: Wed, 17 Nov 2004 22:10:53 +0100
+Subject: [Lehstuver-devel] TortoiseSVN
+Message-ID: <419BBE5D.8090004@gmx.de>
+
+Hallo,
+da heute in der Schule ja die Frage aufkam, ob ich TortoiseSVN schonmal 
+mit BerliOS probiert hab, bin ich dem geradenochmal auf den Grud gegangen.
+Ergebnis: Es klappt :)
+Bei mir brachte Tortoise sein eigenes plink mit, so dann ich keins in 
+mein Windowsverzeichnis kopieren musste.
+Leider frage er aber nich nach Benutzer/Passwort, sondern nur nach 
+Passwort. Gel?st habe ic hdas Problem, in dem ich flogene URL benutzt hab:
+
+svn+ssh://madmarkus at svn.berlios.de/svnroot/repos/lehstuver
+
+ihr m?sst also den benutzernamen vor den host setzen :-)
+
+Ich hoffe, das hilft weiter,
+  viele gr??e
+    markus
+
+
+From t.busshaus at gmx.de  Wed Nov 17 22:28:13 2004
+From: t.busshaus at gmx.de (=?ISO-8859-1?Q?Timo_Bu=DFhaus?=)
+Date: Wed, 17 Nov 2004 22:28:13 +0100
+Subject: [Lehstuver-devel] TortoiseSVN
+In-Reply-To: <419BBE5D.8090004@gmx.de>
+References: <419BBE5D.8090004@gmx.de>
+Message-ID: <419BC26D.2050906@gmx.de>
+
+Markus wrote:
+> Hallo,
+> da heute in der Schule ja die Frage aufkam, ob ich TortoiseSVN schonmal 
+> mit BerliOS probiert hab, bin ich dem geradenochmal auf den Grud gegangen.
+> Ergebnis: Es klappt :)
+> Bei mir brachte Tortoise sein eigenes plink mit, so dann ich keins in 
+> mein Windowsverzeichnis kopieren musste.
+> Leider frage er aber nich nach Benutzer/Passwort, sondern nur nach 
+> Passwort. Gel?st habe ic hdas Problem, in dem ich flogene URL benutzt hab:
+> 
+> svn+ssh://madmarkus at svn.berlios.de/svnroot/repos/lehstuver
+> 
+> ihr m?sst also den benutzernamen vor den host setzen :-)
+
+das mit dem Benutzernamen hatte ich vorher schon ausprobiert. aber er 
+hat bei mir immer den ssh genutzt, der als ENV-Variable festgelegt war.
+Nachem ich in den Tortoise-Einstellungen explizit sein eigenen plink als 
+ssh-client festgelegt hab, scheints hier auch zu gehen
+
+thx
+
+Timo
+
+
+

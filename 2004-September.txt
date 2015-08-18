@@ -1,0 +1,45 @@
+From m.schlichting at mynethome.de  Tue Sep  7 16:11:53 2004
+From: m.schlichting at mynethome.de (Markus Schlichting)
+Date: Tue, 7 Sep 2004 16:11:53 +0200
+Subject: [Lehstuver-devel] Prototyp
+Message-ID: <200409071612.03083.m.schlichting@mynethome.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hallo Leute,
+ich habe den Prototyp, den Kai und ich heute in der Schule zusammengebastelt 
+haben, in das Subversion Repository gelegt, das uns bei berlios zu Verf?gung 
+steht.
+(Siehe auch http://developer.berlios.de/svn/?group_id=1842)
+Ihr k?nnt ihn euch ja mal angucken :)
+Sch?n ist er noch nicht...
+Aber um Subversion schonmal kennenzulernen vielleicht ein netter Anfang...
+Viele Gr??e & bis morgen
+ Markus
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.4 (GNU/Linux)
+
+iD8DBQFBPcGvTVS9cOdNQn4RAn3jAKCNe+avXaYL6CHsSyvdvaCzI+3Y2ACcD/7q
+1+oedzLZ2wdTV47mwuFB/0Q=
+=acs4
+-----END PGP SIGNATURE-----
+
+
+From MSchlichting at conet.de  Wed Sep  8 12:41:59 2004
+From: MSchlichting at conet.de (Schlichting, Markus)
+Date: Wed, 8 Sep 2004 12:41:59 +0200 
+Subject: [Lehstuver-devel] Prototyp
+Message-ID: <774DB96A873A41489D60E306691254D6034382E5@sheex267.corp.conet.local>
+
+ 
+> Hallo Leute,
+> ich habe den Prototyp, den Kai und ich heute in der Schule 
+
+Oh verdammt,
+nat?rlich meinte ich "Timo und ich" :P
+Sorry :)
+Viele Gr??e
+ Markus
+
+
